@@ -1,0 +1,7 @@
+Text,Entities_Count,Start_Index,End_Index,Tag,Start_Index,End_Index,Tag,Start_Index,End_Index,Tag
+Horses are too tall and they pretend to care about your feelings,3,0,6,ANIMAL,8,11,Determiner,17,20,Adjective
+Do they bite?,,,,,,,,,,
+horses are too tall and they pretend to care about your feelings,2,0,6,ANIMAL,8,11,Verb,,,
+"they pretend to care about your feelings, those horses",1,48,54,ANIMAL,,,,,,
+horses?,1,0,6,ANIMAL,,,,,,
+Horse is a national animal.,2,0,5,ANIMAL,7,8,Verb,,,
